@@ -1,1 +1,1 @@
-"# Pr ctica Git" 
+# Practica Git
